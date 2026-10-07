@@ -8,4 +8,5 @@
 | [0175-combine-two-tables](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/anurajrajak005/SQL-leet-code/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/anurajrajak005/SQL-leet-code/tree/master/1148-article-views-i) |
+| [1683-invalid-tweets](https://github.com/anurajrajak005/SQL-leet-code/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
